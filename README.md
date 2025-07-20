@@ -1,49 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//API Developer Intern - Technical Assessment
-//Real-Time Visitor Analytics System
-Socket.IO is a JavaScript library that enables real-time, bidirectional, and event-based communication between web clients and servers. 
-io.on('connection',disconnection,visitor_update,error,session_activity)
-WebSocket event types represent the key stages of communication in a WebSocket connection. Here are the main ones:
-
-open – Triggered when the connection is successfully established.
-message – Fired when a message is received from the server.
-error – Occurs when there's an error in communication.
-close – Triggered when the connection is closed, either by the client or the server.
-These events help manage and respond to real-time data exchanges over WebSockets.
-
 # 🧭 Real-Time Visitor Analytics System
 
 > A full-stack project built for the API Developer Intern Technical Assessment.  
